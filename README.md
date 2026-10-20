@@ -1,2 +1,2 @@
-# Studi-Kasus-5-Dasbor-Monitoring-Metrik-Bisnis-Interaktif-HCI-Data-Ink-Optimization-
+# Studi Kasus 5 Dasbor Monitoring Metrik Bisnis Interaktif HCI Data Ink Optimization
 Penerapan prinsip HCI dan visualisasi data Edward Tufte untuk membangun dasbor monitoring performa bisnis berbasis Web (Streamlit/Plotly). Proyek ini menerapkan rasio data-tinta tinggi, atribut pre-atentif untuk deteksi anomali, mantra Shneiderman (overview first, zoom/filter, details-on-demand), serta aksesibilitas visual.
